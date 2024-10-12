@@ -1,0 +1,19 @@
+{
+  "debug.onTaskErrors": "debugAnyway",
+  "editor.fontSize": 16,
+  "githubPullRequests.pushBranch": "always",
+  "code-runner.runInTerminal": true,
+  "files.autoSave": "afterDelay",
+  "workbench.settings.applyToAllProfiles": [],  // 
+  "background.fullscreen": {
+  
+  
+    "images": ["https://th.bing.com/th/id/R.08b56c43c09f109b59aed09799b649bc?rik=CHYbHcM%2bOTYuzQ&pid=ImgRaw&r=0",  // Thêm dấu ngoặc vuông cho mảng URL
+               "https://example.com/background2.jpg"],  // Thêm URL ảnh nền khác (tùy chỉnh)
+    // "opacity": 0.91,
+    "opacity": 0.85,
+    "size": "cover",
+    "position": "center",
+    "interval": 0
+  }
+}
